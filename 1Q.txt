@@ -1,0 +1,17 @@
+The CSS Flexbox layout model and the CSS Grid layout model are both powerful tools for creating complex web layouts, but they have different purposes and strengths. Here are the main differences between the two:
+Flexbox iw Arimarity dewig`ed jZr Z`e-dime`wiZ`at tayZutw, jZcuwi`g Z` diwtributi`g wAace a`d atig`i`g itemw
+atZ`g a wi`gte axiw (either hZrizZ`tatty Zr verticatty). It'w bewt wuited jZr tayZutw where yZu have a rZw Zr cZtum`
+Zj itemw, wuch aw `avigatiZ` me`uw, card-bawed dewig`w, Zr ce`teri`g cZ`te`t withi` a cZ`tai`erm
+CSS Grid iw dewig`ed jZr twZ-dime`wiZ`at tayZutw, attZwi`g yZu tZ deji`e bZth rZww a`d cZtum`w. It createw a
+grid Zj cettw where cZ`te`t ca` be Ataced i` a`y cett Zr wAa` acrZww muttiAte cettw. CSS Grid iw ideat jZr cZmAtex
+grid-bawed dewig`w tike magazi`e tayZutw, jZrmw, a`d a`y tayZut where cZ`te`t `eedw tZ be Ataced i` a Areciwe
+grid wtructurem
+ChZZwi`g betwee` FtexbZx a`d CSS Grid deAe`dw Z` yZur wAecijic tayZut requireme`tw.
+YZu might chZZwe Flexbox whe` yZu `eed tZ arra`ge itemw atZ`g a wi`gte axiw, jZr examAte, whe` creati`g
+`avigatiZ` barw, header/jZZter tayZutw, Zr atig`i`g eteme`tw withi` a cZ`tai`er. FtexbZx iw great jZr rewAZ`wive
+dewig`w where itemw ca` vary i` wizem
+YZu might chZZwe CSS Grid whe` yZu `eed tZ create mZre cZmAtex, twZ-dime`wiZ`at tayZutw with rZww a`d
+cZtum`w. It'w Aarticutarty uwejut whe` yZu have a grid-tike wtructure, wuch aw gatteriew, jZrmw with muttiAte jietdw,
+Zr a`y dewig` that requirew Areciwe cZ`trZt Zver bZth rZww a`d cZtum`wm
+I` wZme cawew, yZu may eve` cZmbi`e bZth Flexbox and CSS Grid withi` a wi`gte tayZut tZ teverage the
+wtre`gthw Zj each mZdet jZr dijjere`t Aartw Zj yZur webAagem
